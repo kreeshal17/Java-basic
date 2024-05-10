@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Daatclas",
+            "request": "launch",
+            "mainClass": "Daatclas",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "polymerphisms",
+            "request": "launch",
+            "mainClass": "oops.polymerphisms",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "OOps",
+            "request": "launch",
+            "mainClass": "OOps",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "Palindrone",
+            "request": "launch",
+            "mainClass": "Palindrone",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "recursion.Main",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "recurs",
+            "request": "launch",
+            "mainClass": "recursion.recurs",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "recursion.sum",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "recursionbasic",
+            "request": "launch",
+            "mainClass": "recursionbasic",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "st",
+            "projectName": "java_e51665fa"
+        },
+        {
+            "type": "java",
+            "name": "stbld",
+            "request": "launch",
+            "mainClass": "stbld",
+            "projectName": "java_e51665fa"
+        }
+    ]
+}
