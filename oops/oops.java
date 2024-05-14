@@ -1,5 +1,5 @@
 
-class Account{
+class Account {
     public String name;
     protected String email;
     private String pasword;
@@ -7,12 +7,11 @@ class Account{
 }
 
 public class oops {
-    public static void main(String[] args)
-    {
-        Account a= new Account();
-        a.name="kreeshal";
-        a.email="kreeshal@gmail.com";
-        a.pasword="abcdef";
+    public static void main(String[] args) {
+        Account a = new Account();
+        a.name = "kreeshal";
+        a.email = "kreeshal@gmail.com";
+        a.pasword = "abcdef";
     }
-    
+
 }
